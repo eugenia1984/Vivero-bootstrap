@@ -14,10 +14,10 @@ This Project only has one master branch, it was a small project so it did not ne
 
 ## Stack of technologies?  🛠️
 
-**HTML5** **CSS3** **BOOTSRAP**
+**HTML5** **CSS3** **BOOTSTRAP**
 
 ## Demo 📦
-If you want to see how this project was, you can do it from: :arrow_right:   https://eugenia1984.github.io/mym-vivero-bootstrap
+If you want to see how this project was, you can do it from: :arrow_right:   https://eugenia1984.github.io/Vivero-bootstrap
 
 
 ## Please: 🎁
@@ -52,10 +52,10 @@ Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo q
 
 ## Tecnologías aplicadas 🛠️
 
-**HTML5** **CSS3** **BOOTSRAP**
+**HTML5** **CSS3** **BOOTSTRAP**
 
 ## Demo 📦
-Si quieres ver cómo fue este proyecto, puedes hacerlo desde: :arrow_right: https://eugenia1984.github.io/mym-vivero-bootstrap
+Si quieres ver cómo fue este proyecto, puedes hacerlo desde: :arrow_right: https://eugenia1984.github.io/Vivero-bootstrap
 
 
 ## Por favor: 🎁
